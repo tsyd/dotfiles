@@ -15,5 +15,5 @@ Installation
 
 Clone the repository and run the installation script:
 
-    git clone https://github.com/tsyd/dotfiles.git
-    sh dotfiles/install.sh
+    git clone https://github.com/tsyd/dotfiles.git ~/.dotfiles
+    sh ~/.dotfiles/install.sh
